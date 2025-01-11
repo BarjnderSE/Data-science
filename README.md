@@ -56,5 +56,14 @@ This portfolio is constantly expanding with new and exciting projects in:
 - **Machine Learning**: Building and fine-tuning robust algorithms.
 - **Deep Learning**: Developing neural networks for AI-powered solutions.
 - **Artificial Intelligence**: Solving real-world problems with cutting-edge AI technologies.
+  
+
+
+https://github.com/user-attachments/assets/438f9082-6b93-415e-ab49-91774039ae67
+
+
+https://github.com/user-attachments/assets/9643b20a-5edb-4701-a260-c79812461a89
+
+
 
 Stay tuned for updates as I continue to explore and apply innovative tools and techniques in Python, ML, DL, AI, and more!
