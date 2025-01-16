@@ -1,4 +1,4 @@
-# **Data Science and Machine Learning Projects**
+# **Data Science and Machine Learning & AI Projects**
 
 ## **Overview**
 This portfolio highlights a variety of projects that implement diverse data science, machine learning (ML), and deep learning (DL) techniques. The objective is to explore datasets, build predictive models, and extract actionable insights using advanced tools and algorithms.  
